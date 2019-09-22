@@ -1,5 +1,5 @@
 # 使用方法
-`--s [parameter]` 指定起始页数
+`--s [parameter]` 指定起始页数  
 --e [parameter] 指定结束页数
 --input [parameter] 指定输入文件名，若无则设定输入为标准输入流
 --output [parameter] 指定输出文件名，若无则设定输出为标准输出流
