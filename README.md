@@ -13,7 +13,7 @@
 $hello world
 
 ## 输入为文件"1.txt"，输出为标准输出流
-`$main 1.txt ` 
+`$main 1.txt `  
 1   
 2  
 3  
